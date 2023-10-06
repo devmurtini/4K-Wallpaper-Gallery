@@ -2,15 +2,15 @@
 	"Ads": [
 		{
 			"select_main_ads": "ADMOB",
-			"select_backup_ads": "APPLOVIN-D",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_rewards": "",
-			"main_ads_natives": "",
-			"backup_ads_banner": "db4d5e8718b97d78",
-			"backup_ads_intertitial": "518cd97722c60b52",
-			"backup_ads_rewards": "",
-			"backup_ads_natives": "",
+			"select_backup_ads": "APPLOVIN-M",
+			"main_ads_banner": "ca-app-pub-7587542433361033/5801706229",
+			"main_ads_intertitial": "ca-app-pub-7587542433361033/1862461216",
+			"main_ads_rewards": "ca-app-pub-7587542433361033/2724418066",
+			"main_ads_natives": "ca-app-pub-7587542433361033/7529720861",
+			"backup_ads_banner": "f951b3ad3428e1f2",
+			"backup_ads_intertitial": "fc2894607834417f",
+			"backup_ads_rewards": "c381ef75baa4300d",
+			"backup_ads_natives": "1bea8cb63ad810c8",
 			"open_ads_admob": "",
 			"open_ads_alien": "",
 			"open_ads_max": "1",
@@ -29,21 +29,9 @@
 	"More": [
 		{
 			"id": 1,
-			"title": "Ludo King",
-			"image": "https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-			"link": "https://play.google.com/store/apps/details?id=com.ludo.king"
-		},
-		{
-			"id": 2,
-			"title": "Homescapes",
-			"image": "https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-			"link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-		},
-		{
-			"id": 3,
-			"title": "Minecraft",
-			"image": "https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-			"link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+			"title": "judul",
+			"image": "linkgambar",
+			"link": "link"
 		}
 	],
 	"Categories": [
